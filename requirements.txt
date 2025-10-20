@@ -1,0 +1,31 @@
+# --- Core Python scientific stack ---
+numpy
+pandas
+scipy
+scikit-learn
+
+# --- Visualization ---
+matplotlib
+seaborn
+plotly
+# --- ML / Feature Selection / Model Evaluation ---
+xgboost
+lightgbm
+imbalanced-learn
+
+# --- Dimensionality reduction and visualization ---
+umap-learn
+tqdm
+
+# --- Optional but useful for deep embeddings or extended descriptors ---
+torch           # For pretrained embeddings like ProtBERT, ESM2, etc.
+transformers    # For protein language models (if you plan to use them)
+
+# --- Utility ---
+joblib
+
+# --- Jupyter Notebook support ---
+notebook
+ipykernel
+jupyterlab
+
